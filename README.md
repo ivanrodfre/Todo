@@ -12,4 +12,5 @@
 * API + JWT
 * Persistência no banco de dados via EF Core
 * Separação de camadas e responsabilidades
+* Chamadas na API via Angular com integração de login com Firebase
 * Entre outros...
